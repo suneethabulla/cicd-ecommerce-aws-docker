@@ -40,8 +40,6 @@ jobs:
           script_stop: true
           debug: true
           script: |
-
-          
             
             cd ~/ecommercefullstack
 
